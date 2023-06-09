@@ -1,6 +1,6 @@
 # Equal-Weight-S-P-500-Screener-with-YFinance
 
-This projoct was built with the help of this tutorial: https://www.youtube.com/watch?v=xfzGZB4HhEE&t=5916s
+This project was built with the help of this tutorial: https://www.youtube.com/watch?v=xfzGZB4HhEE&t=5916s
 
 The tutorial itself was outdated as IEX Cloud does not provide its Sandbox API since late-mid 2022. So, I tried Alpha Vantage first to overcome the difficulty. Alpha Vantage limits users to only 5 API calls per minute so could not complete the project with Alpha Vantage (however, may be Alpha Vantage can be used if only batch calls are used).
 
