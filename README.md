@@ -1,6 +1,6 @@
 # Equal-Weight-S-P-500-Screener-with-YFinance
 
-The S&P500 index fund is the most famous index fund of the American stock market, and maybe even the whole world. But this index fund is not weighted. This project the fund taking each stock's market capital and prices into account to tell you how many of which stock you should buy with your capital to gain a weighted version of this index fund
+The S&P500 index fund is the most famous index fund of the American stock market, and maybe even the whole world. But this index fund is not weighted. This project the fund taking each stock's market capital and prices into account to tell you how many of which stock you should buy with your capital to gain a weighted version of this index fund.
 
 ## Acknowledgements and Notes
 
